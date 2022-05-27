@@ -17,12 +17,7 @@ You can click the Preview link to take a look at your changes.
 <a href="mailto:hemantkumarha1998@gmail.com">
   <img align="left" width="20px" alt="Hemant's Gmail" src="https://img.icons8.com/color/48/000000/gmail-new.png" />
 </a>
-
-<!--- WhatsApp --->
-<a href="https://wa.me/917004726710">
-  <img align="left" width="20px" alt="Hemant's Whatsapp" src="https://img.icons8.com/color/48/000000/whatsapp.png" />
-</a>
-
+  
 <!--- Instagram --->
 <a href="https://www.instagram.com/its_.hemantk">
   <img align="left" width="21px" alt="Hemant's Instagram" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />
@@ -35,6 +30,9 @@ You can click the Preview link to take a look at your changes.
   <!-- Twitter -->
   <a href="https://www.twitter.com/@its_hkrs">
   <img align="left" width="20px" alt="Hemant's Twitter" src="https://img.icons8.com/color/48/000000/twitter.png" />
+</a>
+  
+   <a href="https://paypal.me/itshkrs?locale.x=en_GB">Support<img align="left" width="20px" alt="Hemant's PayPal" src="https://img.icons8.com/color/48/000000/paypal.png" />
 </a>
 </p>
 
