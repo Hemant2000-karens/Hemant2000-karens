@@ -1,8 +1,4 @@
 - 👋 Hi, I’m @Hemant2000-karens
-- 👀 I’m interested in ... Computer science , programming , developing Logics , and many more 
-- 🌱 I’m currently learning ... Swift, SwiftUI , and Java
-- 💞️ I’m looking to collaborate on ... Oracle  
-- 📫 How to reach me ... on twitter - @its_hkrs
 
 <!---
 Hemant2000-karens/Hemant2000-karens is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,21 +13,12 @@ You can click the Preview link to take a look at your changes.
 <a href="mailto:hemantkumarha1998@gmail.com">
   <img align="left" width="20px" alt="Hemant's Gmail" src="https://img.icons8.com/color/48/000000/gmail-new.png" />
 </a>
-  
-<!--- Instagram --->
-<a href="https://www.instagram.com/its_.hemantk">
-  <img align="left" width="21px" alt="Hemant's Instagram" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />
-</a>
 
 <!--- YouTube --->
 <a href="https://www.youtube.com/channel/UCenLmaT8MU6YfSYvKTFCD1A">
   <img align="left" width="20px" alt="Programming Points YouTube Chanel" src="https://img.icons8.com/color/48/000000/youtube-play.png" />
 </a>
-  <!-- Twitter -->
-  <a href="https://www.twitter.com/@its_hkrs">
-  <img align="left" width="20px" alt="Hemant's Twitter" src="https://img.icons8.com/color/48/000000/twitter.png" />
-</a>
-  
+
    <a href="https://paypal.me/itshkrs?locale.x=en_GB">Support<img align="left" width="20px" alt="Hemant's PayPal" src="https://img.icons8.com/color/48/000000/paypal.png" />
 </a>
 </p>
