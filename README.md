@@ -1,4 +1,4 @@
-### GitHub Bio
+### About Me
 
 - **Computer Science Graduate** 🎓 from IIITDM Jabalpur
 - **Tech Enthusiast** with a strong passion for technology and innovation
