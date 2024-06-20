@@ -1,4 +1,13 @@
-- 👋 Hi, I’m @Hemant2000-karens
+### GitHub Bio
+
+- **Computer Science Graduate** 🎓 from IIITDM Jabalpur
+- **Tech Enthusiast** with a strong passion for technology and innovation
+- **Apple Ecosystem User** 🍏 and Android/Windows Developer 📱💻
+- **Web Developer** skilled in building responsive and efficient web applications
+- **Author** ✍️ with three published articles
+- **Aspirant** 📚 with a drive for continuous learning and improvement
+- **Research Enthusiast** 🔍 with a keen interest in various fields of research
+- **Open Source Contributor** actively participating in and contributing to the open-source community
 
 <!---
 Hemant2000-karens/Hemant2000-karens is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
